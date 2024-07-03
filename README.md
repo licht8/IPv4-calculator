@@ -49,6 +49,7 @@ and then you have to open [**RUN.bat**]() file
 ```mkdir build && cd build```
 * Start building using CMake:
 ```cmake .. && cmake --build .```
+_get a debug version of the application_
 
 ## Running the Application
 After successfully building the project, the executable file will start automatically, but if you want to open it again or have any problems:
