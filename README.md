@@ -56,6 +56,12 @@ git clone https://github.com/licht8/IPv4-calculator.git
 ```
 and then you have to open [**RUN.bat**]() file
 
+**If you want to build the program manually follow these commands:**
+* Make and go into "build" directory 
+```mkdir build && cd build```
+* Start building using CMake:
+```cmake .. && cmake --build .```
+
 ## Running the Application
 After successfully building the project, the executable file will start automatically, but if you want to open it again or have any problems:
 
