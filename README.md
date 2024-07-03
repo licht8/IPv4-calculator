@@ -3,13 +3,6 @@
 This program is designed to handle various operations and calculations related to IP addresses and subnet masks. It includes classes and functions to determine the network class of an IP address, convert decimal numbers to binary, calculate network and broadcast addresses, and provide information about the subnet and host bits.
 
 ## Features
-
-* IP Address Validation:
-Ensures the user inputs a valid IP address in the format xxx.xxx.xxx.xxx.
-
-* Subnet Mask Validation:
-Accepts a subnet mask value between 1 and 32, ensuring it is within the valid range for IPv4 addresses.
-
 * Network Class Determination:
 Determines and displays the class (A, B, C, D, E, or U for unknown) of the provided IP address based on the first octet.
 
@@ -41,11 +34,6 @@ Uses clear and descriptive labels for each piece of information presented.
 
 * Educational Tool:
   Offers a practical way for users to learn about IP addresses, subnetting, and network classes through hands-on interaction and immediate feedback on their inputs.
-
-* Compatibility:
-  Designed to run in a standard C++ environment, ensuring broad compatibility and ease of use across different systems.
-
-
 
 ## Dependencies
 [CMake (version 3.10 and above)](https://cmake.org/download/)
