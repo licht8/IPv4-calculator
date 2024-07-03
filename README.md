@@ -27,26 +27,17 @@ Calculates the network address in both binary and decimal formats based on the g
 Calculates the broadcast address in both binary and decimal formats for the specified IP address and subnet mask.
 
 * First and Last Host Address Calculation:
-Computes and displays the first and last host addresses within the subnet in both binary and decimal formats.
+Calculates and displays the first and last host addresses within the subnet in both binary and decimal formats.
 
 * Subnet and Host Bits Calculation:
 Calculates and displays the number of bits used for subnetting and the number of bits available for host addresses.
 
 * Maximum Hosts and Subnets Calculation:
-Computes and displays the maximum number of hosts per subnet and the total number of subnets that can be created with the given subnet mask.
+Calculates and displays the maximum number of hosts per subnet and the total number of subnets that can be created with the given subnet mask.
 
 * User-Friendly Output:
 Formats the output neatly, making it easy to read and understand the calculated results.
 Uses clear and descriptive labels for each piece of information presented.
-
-* Error Handling:
-Provides informative error messages for invalid inputs, such as an out-of-range subnet mask.
-
-* Interactive Command Line Interface:
-Engages the user with prompts to input the necessary data and waits for user interaction before terminating, making it suitable for learning and practical use.
-
-* Modular Design:
-Separates the functionality into classes (IPAddress and SubnetCalculator), making the code more organized and easier to maintain or extend.
 
 * Educational Tool:
   Offers a practical way for users to learn about IP addresses, subnetting, and network classes through hands-on interaction and immediate feedback on their inputs.
