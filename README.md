@@ -52,7 +52,7 @@ Uses clear and descriptive labels for each piece of information presented.
 
 ## Building the Project
 ```
-git clone https://github.com/licht8/system-specifications.git
+git clone https://github.com/licht8/IPv4-calculator.git
 ```
 and then you have to open [**RUN.bat**]() file
 
