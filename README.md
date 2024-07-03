@@ -55,3 +55,5 @@ After successfully building the project, the executable file will start automati
 
 * Start **RUN.bat**
 * Find [**IPv4-Calculator.exe**]() in **/build/Debug** for Debug and **/build/Release** for Release
+
+![Image alt](https://github.com/licht8/system-specifications/blob/main/images/photo_2024-02-23_21-38-15.jpg)
